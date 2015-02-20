@@ -16,3 +16,5 @@ $  bundle exec rake db:seed
 ```
 
 db/seeds.rb is currently set up to create 5 generations, where the first generation has 15 people and each generation afterwards is 3 to 6 times bigger than the parents generation.  Edit this file as you see fit for your testing needs.
+
+You'll need to of course write the recursive methods to compare to... I'll be doing that soon enough if you just want to wait.
